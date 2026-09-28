@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 
-import Sidebar from "./components/sidebar";
-import Header from "./components/header";
+import Sidebar from "./components/sidebar.jsx";
+import Header from "./components/header.jsx";
 
 import Dashboard from "./pages/Dashboard";
 import Transactions from "./pages/Transactions";
