@@ -1,6 +1,6 @@
-import CardSection from "../components/cardsection.jsx";
-import TransactionSection from "../components/Transactionsection.jsx";
-import ExpenseChart from "../components/ExpenseChart.jsx";
+import CardSection from "../components/CardSection";
+import TransactionSection from "../components/TransactionSection";
+import ExpenseChart from "../components/ExpenseChart";
 
 function Dashboard() {
   return (
