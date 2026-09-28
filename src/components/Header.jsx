@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Sidebar from "./sidebar";
+import Sidebar from "./Sidebar";
 
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
